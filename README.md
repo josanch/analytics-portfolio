@@ -18,7 +18,7 @@ Analyze and identify the behavioral differences between *casual riders* and *ann
 Provided detailed insights and visualizations to support marketing strategies that aim to convert casual riders into members.
 
 **Contents:**
-- `./capstone-cyclistic/case-study-r/` – All R scripts and data preparation workflows
+- `./capstone-cyclistic/case-study-r/CaseStudy_A` – All R scripts and data preparation workflows
 - `./capstone-cyclistic/presentation/` – Google Slides presentation summarizing the findings
 
 ## ✅ Tools and Skills Demonstrated
